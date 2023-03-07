@@ -1,3 +1,4 @@
 # AluraPlus
 Projeto AluraPlus
-Link https://diogohsp.github.io/AluraPlus/
+
+Site: https://diogohsp.github.io/AluraPlus/
